@@ -111,7 +111,7 @@
     "id": 13,
     "name": "Gladiator",
     "description": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
-   " price": 11.99,
+    "price": 11.99,
    "rate":"10",
     "unit": "per one person",
     "image": "https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
@@ -126,8 +126,8 @@
     "image": "https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
   },
   {
-   " id": 15,
-   " name": "Saving Private Ryan",
+    "id": 15,
+    "name": "Saving Private Ryan",
     "description": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed.",
     "price": 12.99,
     "rate":"10",
